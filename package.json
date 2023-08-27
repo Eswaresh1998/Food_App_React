@@ -2,18 +2,25 @@
   "name": "food-app",
   "version": "1.0.0",
   "description": "",
-  "main": "git init",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "Food-App"
+    "url": "(https://github.com/Eswaresh1998/Food_App_React.git)"
   },
   "keywords": [
     "Food",
-    "Delivery"
+    "Delivery",
+    "App",
+    "react",
+    "projects"
   ],
   "author": "Eswaresh Sai Karnati",
   "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/Eswaresh1998/Food_App_React/issues"
+  },
+  "homepage": "https://github.com/Eswaresh1998/Food_App_React#readme",
 }
