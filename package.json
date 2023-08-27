@@ -1,0 +1,19 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git init",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Food-App"
+  },
+  "keywords": [
+    "Food",
+    "Delivery"
+  ],
+  "author": "Eswaresh Sai Karnati",
+  "license": "ISC"
+}
