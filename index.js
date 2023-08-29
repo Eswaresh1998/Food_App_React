@@ -31,38 +31,8 @@ import ReactDOM from "react-dom";
 //      --> address
 //      --> newsletter
 
-const React = require("react")
+
 
 //      --> subscribe button
-const Header = () => {
-    return (
-       <div class='header'>
-             <div className='logo'>
-                    <img src='./images/food_App_Logo.jpg' alt='logo' />
-            </div>
-            <div className ='nav-items'>
-                <ul>
-                    <li>Home</li>
-                    <li>Resturants</li>
-                    <li>Locations</li>
-                    <li>About Us</li>
-                </ul>
-            </div>
-        </div>
-    )
-}
-
-const AppLayput = () => {
-    return (
-        <div class ='app'>
-            <Header />
-            <Body />
-            <Footer />
-        </div>
-    )
-}
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<AppLayput />);
 
 

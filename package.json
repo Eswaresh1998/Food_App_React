@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -18,9 +19,12 @@
     "projects"
   ],
   "author": "Eswaresh Sai Karnati",
-  "license": "ISC"
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eswaresh1998/Food_App_React/issues"
   },
   "homepage": "https://github.com/Eswaresh1998/Food_App_React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
 }
